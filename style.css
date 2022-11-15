@@ -192,6 +192,16 @@ footer{
     width: 100%;
 }
 
+footer h3{
+    margin-right: 15px;
+    
+}
+
+footer p{
+    margin-right: 15px;
+    
+}
+
 .iconosRedes{
     display: flex;
     justify-content: flex-end;
